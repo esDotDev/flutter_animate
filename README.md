@@ -1,5 +1,3 @@
-![tests](https://github.com/esDotDev/flutter_animate/actions/workflows/tests.yml/badge.svg)
-
 Flutter Animate
 ================================================================================
 
